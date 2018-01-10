@@ -1,2 +1,2 @@
-# WeatherS_Story
-a Simple Weather App with Daily unique quotes.
+# Weather's Story
+a Well Designed Weather App with Daily unique Quotes.
